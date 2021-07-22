@@ -2,7 +2,12 @@
 ## Projeto desenvolvido no curso Hiring Coders#2
 
 
-
+#Utilizado:
+-Sass
+-Node
+-html e css
+-Atomic Design
+-Javascript
 
 
 
