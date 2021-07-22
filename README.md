@@ -1,17 +1,10 @@
-# Gama Academy :)
-## Template Node FullJS
+#Projeto StarWars Boas Praticas Gama Academy :)
+## Projeto desenvolvido no curso Hiring Coders#2
 
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
-
-Para instalar as dependências:
-`npm i`
-
-Para iniciar em modo de desenvolvimento:
-`npm start`
 
 ## Aconselhado ter instalado NODEJS versão 14.x em diante.
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-## Professor Douglas Morais
+## Projeto original e administrado pelo Professor Douglas Morais git Clone
+## https://github.com/mrdouglasmorais/template-node-fulljs
